@@ -73,7 +73,7 @@ def to_word(pivot_dictionary):
     informant = input('введите код информанта ')
     date = input('введите дату ')
     expe = input('введите свой код ')
-    name = f'eve_{informant}_{date}_{expe}'
+    name = f'sah_{informant}_{date}_{expe}'
 
     document = Document()
     sections = document.sections
