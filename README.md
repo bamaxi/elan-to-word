@@ -2,7 +2,11 @@
 
 This tool allows to convert delimited text exported from ELAN into `.docx`.
 
-##Instruction
+## Open in colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bamaxi/elan-to-word/blob/sakha/elan_to_word.ipynb)
+
+
+## Instruction
 
 * Annotate your text using ELAN. Layers are the following:
   * transcription (phonetic form of sentences)
